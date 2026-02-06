@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Local Session & Logs
+session.json
+*.log
+
+# Streamlit
+.streamlit/
