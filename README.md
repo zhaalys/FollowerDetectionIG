@@ -1,4 +1,4 @@
-# 📸 Instagram Unfollowers Detector (Anti-Ribet)
+#  Instagram Unfollowers Detector (Anti-Ribet)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🔥 Fitur Unggulan
+##  Fitur Unggulan
 
 - ✅ **Cek Unfollowers**: Lihat daftar orang yang kamu follow tapi gak follow balik.
 - ✅ **Cek Fans**: Temukan orang yang nge-fans (follow kamu tapi kamu gak follow).
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Cara Install & Pakai (Gampang Banget!)
+##  Cara Install & Pakai (Gampang Banget!)
 
 Pastikan kamu sudah install [Python](https://www.python.org/downloads/) ya!
 
@@ -51,7 +51,7 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Cara Menggunakan
+##  Cara Menggunakan
 
 1.  **Login**: Masukkan Username & Password Instagram kamu di menu sebelah kiri.
     - _Tips: Gunakan akun kedua (second account) buat login biar akun utama makin aman!_
@@ -63,17 +63,11 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Peringatan (Disclaimer)
+##  Peringatan (Disclaimer)
 
 - **Gunakan dengan Bijak**: Jangan spam cek 100x sehari nanti dikira bot sama Instagram.
 - **IP Block**: Kalau tiba-tiba gagal login ("Feedback Required" / "Blacklist"), itu artinya IP WiFi kamu diblokir sementara. Ganti ke **Hotspot HP (Data Seluler)** sebentar, lalu coba lagi.
 - **Resiko**: Penggunaan bot pihak ketiga selalu memiliki resiko. Penulis tidak bertanggung jawab atas akun yang terkena limit/suspensi.
-
----
-
-## ❤️ Dukungan
-
-Suka dengan tools ini? Jangan lupa kasih **Bintang (Star) ⭐** di pojok kanan atas repo ini ya!
 
 ---
 
